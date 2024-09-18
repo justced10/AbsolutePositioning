@@ -1,0 +1,54 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+    background-color: antiquewhite;
+
+}
+
+
+
+.container {
+
+    position: relative;
+
+    height: 100vh;
+
+    background-color: white;
+
+}
+
+
+
+.image1 {
+
+    position: absolute;
+
+    top: 50px;
+
+    left: 50px;
+
+    width: 200px;
+
+    height: auto;
+
+}
+
+
+
+.image2 {
+
+    position: absolute;
+
+    top: 200px;
+
+    left: 300px;
+
+    width: 200px;
+
+    height: auto;
+
+}
+
